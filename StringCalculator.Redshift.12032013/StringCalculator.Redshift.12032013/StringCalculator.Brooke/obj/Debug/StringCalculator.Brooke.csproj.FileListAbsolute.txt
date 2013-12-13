@@ -1,0 +1,12 @@
+c:\users\brooke.estes\documents\visual studio 2012\Projects\StringCalculator.Redshift.12032013\StringCalculator.Brooke\bin\Debug\StringCalculator.Brooke.dll
+c:\users\brooke.estes\documents\visual studio 2012\Projects\StringCalculator.Redshift.12032013\StringCalculator.Brooke\bin\Debug\StringCalculator.Brooke.pdb
+c:\users\brooke.estes\documents\visual studio 2012\Projects\StringCalculator.Redshift.12032013\StringCalculator.Brooke\bin\Debug\nunit.framework.dll
+c:\users\brooke.estes\documents\visual studio 2012\Projects\StringCalculator.Redshift.12032013\StringCalculator.Brooke\obj\Debug\StringCalculator.Brooke.csprojResolveAssemblyReference.cache
+c:\users\brooke.estes\documents\visual studio 2012\Projects\StringCalculator.Redshift.12032013\StringCalculator.Brooke\obj\Debug\StringCalculator.Brooke.dll
+c:\users\brooke.estes\documents\visual studio 2012\Projects\StringCalculator.Redshift.12032013\StringCalculator.Brooke\obj\Debug\StringCalculator.Brooke.pdb
+C:\Users\Brooke.Estes\Desktop\StringCalculator.Redshift.12032013\StringCalculator.Brooke\bin\Debug\StringCalculator.Brooke.dll
+C:\Users\Brooke.Estes\Desktop\StringCalculator.Redshift.12032013\StringCalculator.Brooke\bin\Debug\StringCalculator.Brooke.pdb
+C:\Users\Brooke.Estes\Desktop\StringCalculator.Redshift.12032013\StringCalculator.Brooke\bin\Debug\nunit.framework.dll
+C:\Users\Brooke.Estes\Desktop\StringCalculator.Redshift.12032013\StringCalculator.Brooke\obj\Debug\StringCalculator.Brooke.csprojResolveAssemblyReference.cache
+C:\Users\Brooke.Estes\Desktop\StringCalculator.Redshift.12032013\StringCalculator.Brooke\obj\Debug\StringCalculator.Brooke.dll
+C:\Users\Brooke.Estes\Desktop\StringCalculator.Redshift.12032013\StringCalculator.Brooke\obj\Debug\StringCalculator.Brooke.pdb
