@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StringCalculator.Brooke", "StringCalculator\StringCalculator.Brooke\StringCalculator.Brooke.csproj", "{BB0133F7-8B95-4EF8-83F8-A5303FD242CA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StringCalculator.Adam.Core", "StringCalculator\StringCalculator.Adam.Core\StringCalculator.Adam.Core.csproj", "{B36D0E9E-DAA1-4415-A84E-4C3D905368B1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StringCalculator.Adam.Tests", "StringCalculator\StringCalculator.Adam.Tests\StringCalculator.Adam.Tests.csproj", "{8459680F-24C7-49A5-A599-F80CAFFA59AD}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{E14B5766-A4B9-457E-B835-9A9E624033B6}"
+	ProjectSection(SolutionItems) = preProject
+		StringCalculator\String_Calculator_Story.txt = StringCalculator\String_Calculator_Story.txt
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BB0133F7-8B95-4EF8-83F8-A5303FD242CA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BB0133F7-8B95-4EF8-83F8-A5303FD242CA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BB0133F7-8B95-4EF8-83F8-A5303FD242CA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BB0133F7-8B95-4EF8-83F8-A5303FD242CA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B36D0E9E-DAA1-4415-A84E-4C3D905368B1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B36D0E9E-DAA1-4415-A84E-4C3D905368B1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B36D0E9E-DAA1-4415-A84E-4C3D905368B1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B36D0E9E-DAA1-4415-A84E-4C3D905368B1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8459680F-24C7-49A5-A599-F80CAFFA59AD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8459680F-24C7-49A5-A599-F80CAFFA59AD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8459680F-24C7-49A5-A599-F80CAFFA59AD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8459680F-24C7-49A5-A599-F80CAFFA59AD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
